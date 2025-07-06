@@ -1,0 +1,99 @@
+[
+  {
+    "id": "1",
+    "name": "Premium Headphones",
+    "price": 99.99,
+    "image": "https://picsum.photos/300/300?random=1",
+    "description": "High-quality sound with noise cancellation",
+    "category": "electronics"
+  },
+  {
+    "id": "2",
+    "name": "Wireless Keyboard",
+    "price": 49.99,
+    "image": "https://picsum.photos/300/300?random=2",
+    "description": "Ergonomic design with long battery life",
+    "category": "electronics"
+  },
+  {
+    "id": "3",
+    "name": "Smart Watch",
+    "price": 199.99,
+    "image": "https://picsum.photos/300/300?random=3",
+    "description": "Track your fitness and stay connected",
+    "category": "electronics"
+  },
+  {
+    "id": "4",
+    "name": "Cotton T-Shirt",
+    "price": 24.99,
+    "image": "https://picsum.photos/300/300?random=4",
+    "description": "Soft and comfortable for everyday wear",
+    "category": "clothing"
+  },
+  {
+    "id": "5",
+    "name": "Ceramic Mug",
+    "price": 14.99,
+    "image": "https://picsum.photos/300/300?random=5",
+    "description": "Beautiful handmade ceramic mug",
+    "category": "home"
+  },
+  {
+    "id": "6",
+    "name": "Desk Lamp",
+    "price": 34.99,
+    "image": "https://picsum.photos/300/300?random=6",
+    "description": "Adjustable brightness for perfect lighting",
+    "category": "home"
+  },
+  {
+    "id": "7",
+    "name": "Desk 67ෆුක්ක්",
+    "price": 34.99,
+    "image": "https://picsum.photos/300/300?random=6",
+    "description": "Adjustable brightness for perfect lighting",
+    "category": "home"
+  },
+  {
+    "id": "9",
+    "name": "Desk 6",
+    "price": 34.99,
+    "image": "https://picsum.photos/300/300?random=6",
+    "description": "Adjustable brightness for perfect lighting",
+    "category": "home"
+  },
+    {
+    "id": "10",
+    "name": "Desk 6",
+    "price": 34.99,
+    "image": "https://picsum.photos/300/300?random=6",
+    "description": "Adjustable brightness for perfect lighting",
+    "category": "home"
+  },
+  {
+  "id": "11",
+  "name": "car",
+  "price": 50,
+  "image": "https://picsum.photos/300/300?random=6",
+  "description": "Adjustable brightness for perfect lighting",
+  "category": "home"
+},
+{
+  "id": "12",
+  "name": "car2",
+  "price": 50,
+  "image": "https://picsum.photos/300/300?random=6",
+  "description": "fgdfdfs",
+  "category": "home"
+}
+,
+{
+  "id": "13",
+  "name": "car2",
+  "price": 50,
+  "image": "https://picsum.photos/300/300?random=6",
+  "description": "fgdfdfs",
+  "category": "home"
+}
+]
